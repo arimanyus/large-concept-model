@@ -1,6 +1,6 @@
 # Large Concept Model (LCM) - Practical Implementation
 
-This repository contains the implementation of our paper "Towards Practical Concept-Based Language Models: An Efficiency-Focused Implementation". Our work demonstrates significant efficiency improvements in language processing through concept-based approaches.
+This repository contains the implementation of my technical report paper "Towards Practical Concept-Based Language Models: An Efficiency-Focused Implementation". Our work demonstrates significant efficiency improvements in language processing through concept-based approaches.
 
 ## Key Features
 
