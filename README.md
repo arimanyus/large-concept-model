@@ -108,7 +108,7 @@ If you use this code in your research, please cite our paper:
 @article{tiwari2024towards,
   title={Towards Practical Concept-Based Language Models: An Efficiency-Focused Implementation},
   author={Tiwari, Vivek K.},
-  journal={arXiv preprint arXiv:2024.xxxxx},
+  journal={arXiv preprint arXiv:2024.6154975},
   year={2024}
 }
 ```
@@ -123,11 +123,11 @@ We welcome contributions! Please check our [contributing guidelines](CONTRIBUTIN
 
 ## Acknowledgments
 
-- IBM Research for computational resources
+- IBM for technical guidance
 - The authors of the original LCM paper
 - The open-source NLP community
 
 ## Contact
 
-- Vivek K. Tiwari - vivek.tiwari4@ibm.com
+- Vivek K. Tiwari - vivek.tiwari4@ibm.com / vivek3312@gmail.com
 - Project Link: https://github.com/arimanyus/large-concept-model
